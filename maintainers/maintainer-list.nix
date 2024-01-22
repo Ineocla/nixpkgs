@@ -7966,7 +7966,13 @@
     githubId = 37965;
     name = "Léo Stefanesco";
   };
-  infinidoge = {
+  Ineocla = {
+    email = "mouline.bakr@proton.me";
+    github = "Ineocla";
+    githubId = 72597825 ;
+    name = "Bakr Mouline";
+  };
+    infinidoge = {
     name = "Infinidoge";
     email = "infinidoge@inx.moe";
     github = "Infinidoge";
